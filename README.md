@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmet-ozberk" alt="ahmet-ozberk" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter, Swift, SwiftUI**
+- 🌱 I’m currently learning **Flutter, Kotlin, Jetpack Compose, Swift, SwiftUI**
 
-- 💬 Ask me about **flutter, dart ad swift**
+- 💬 Ask me about **flutter, dart and kotlin**
 
 - 📫 How to reach me **ahmet.ozberk.mrs@gmail.com**
 
